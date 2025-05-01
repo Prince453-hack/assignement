@@ -33,6 +33,3 @@ This is a full-stack **Task Management Application** built with the **MERN stack
 | Charts      | Recharts (Pie & Bar Charts)          |
 
 ---
-
-## 📁 Project Structure
-
