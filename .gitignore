@@ -1,0 +1,10 @@
+# root .gitignore
+
+# logs
+*.log
+
+# dotenv
+.env
+
+# OS
+.DS_Store
